@@ -27,7 +27,7 @@ Download the code using the green drop-down at the top right handside of the pag
 3. Run As
 4. 1 JUnit Test
 
-## Consolte Output
+## Console Output
 
 The Test should pass without any Errors or Failures and print the following in the Console:
 
