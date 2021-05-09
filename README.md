@@ -5,6 +5,7 @@ CityBikesPreAssessment is only a demo project. Further development has stopped.
 ## Description
 
 This project contains the code to my solution for creating a Java Steps Defintion file to test the following Scenario:
+
 As a user I want to verify that the city Frankfurt is in Germany and that we can return the city’s corresponding latitude and longitude.
 
 ## Key Contents
@@ -55,4 +56,5 @@ Scenario: GET CityBikes Location
 ## Author and acknowledgment
 
 Author: Harbir Sandhu
+
 Acknowledgment: the brilliant team at CityBikes and their API https://api.citybik.es/v2/
