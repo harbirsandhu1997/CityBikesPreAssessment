@@ -4,21 +4,25 @@ CityBikesPreAssessment is only a demo project. Further development has stopped.
 
 ## Description
 
-This project contains the code to my solution for creating a Java Steps Defintion file to test the following Scenario:
+This project implements Automated API testing using Rest Assured and Cucumber with Eclipse.
 
-As a user I want to verify that the city Frankfurt is in Germany and that we can return the city’s corresponding latitude and longitude.
+I use the CityBikes API - Documentation can be found at https://api.citybik.es/v2/
+
+I have included the source code to my Feature File which contains the BDD Test Scenario, written in the Gherkin Syntax (Given, When, Then). This Feature File is then mapped with Java Step Definitions. 
 
 ## Key Contents
 
-Feature File - Contains the Feature and Scenario using the BDD approach with Given, Then, When keywords
+Feature File - Contains the Feature and Test Scenario using a BDD approach
 
 Steps Definitions File - Java Step Definitions for the feature file
 
 Runner Class - Calls the Feature File and Steps Definitions File to run the Test
 
+pom.xml - Contains dependencies, plugins and build properties
+
 ## Installation
 
-Download the code using the green drop-down at the top right handside of the page.
+Download the code using the green dropdown at the top right-handside of the page.
 
 ## Usage
 
