@@ -16,7 +16,7 @@ Runner Class - Calls the Feature File and Steps Definitions File to run the Test
 
 ## Installation
 
-Download the code...
+Download the code using the green drop-down at the top right handside of the page.
 
 ## Usage
 
