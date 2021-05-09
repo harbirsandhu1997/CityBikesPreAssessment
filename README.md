@@ -28,19 +28,24 @@ Download the code...
 
 The Test should pass without any Errors or Failures and print the following in the Console:
 
-```Response returned as: {"network":{"location":{"city":"Frankfurt","country":"DE","latitude":50.1072,"longitude":8.66375}}}
+```
+Response returned as: {"network":{"location":{"city":"Frankfurt","country":"DE","latitude":50.1072,"longitude":8.66375}}}
 ```
 
 ## Test Feature
 
-```Feature: 	As a user
-			I want to verify that the city Frankfurt is in Germany
-			So that we can return the city’s corresponding latitude and longitude
+```
+Feature: 		
+
+	As a user
+	I want to verify that the city Frankfurt is in Germany
+	So that we can return the city’s corresponding latitude and longitude
 ```
 
 ## Test Scenario
 
-```Scenario: GET CityBikes Location
+```
+Scenario: GET CityBikes Location
 	Given I set GET api endpoint
 	When I send GET HTTP request
 	Then I receive valid HTTP response code for GET
