@@ -10,8 +10,10 @@ As a user I want to verify that the city Frankfurt is in Germany and that we can
 
 ## Key Contents
 
-Feature File - Contains the Feature and Scenario using the BDD approach with Given, Then, When keywords. 
+Feature File - Contains the Feature and Scenario using the BDD approach with Given, Then, When keywords
+
 Steps Definitions File - Java Step Definitions for the feature file
+
 Runner Class - Calls the Feature File and Steps Definitions File to run the Test
 
 ## Installation
